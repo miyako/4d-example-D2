@@ -1,0 +1,9 @@
+{
+	"version": 2100,
+	"dependencies": {
+		"D2": {
+			"github": "miyako/D2",
+			"version": "latest"
+		}
+	}
+}
